@@ -1,7 +1,7 @@
 # PRD
 
 ## Problem
-A tiny example PRD.
+Automating the creation of PRD with Github actions
 
 ## User
 A student.
