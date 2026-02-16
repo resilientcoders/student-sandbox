@@ -1,7 +1,7 @@
 # PRD
 
 ## Problem
-A tiny example PRD.
+Small businesses in my community need support with having an active digital presence.
 
 ## User
 A student.
