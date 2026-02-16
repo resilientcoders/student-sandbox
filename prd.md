@@ -1,27 +1,19 @@
 # PRD
 
 ## Problem
-A tiny example PRD.
+It's challenging to find the nearest food pantry.
 
 ## User
-A student.
+Community members.
 
 ## Functional Requirements
-- FR-1: The app prints "hello".
-- FR-2: The app prints the current date.
-- FR-3: The app exits with code 0.
+- FR-1: A responsive website that works on desktop and mobile.
+- FR-2: Should have a simple ux/ui
+- FR-3: Should have international support.
 
 ## Non-Functional Requirements
-- NFR-1: Runs in under 1 second.
+- NFR-1: Easy to use
 
 ## Acceptance Criteria
-### FR-1
-- Given the app runs, When invoked, Then it prints "hello".
-### FR-2
-- Given the app runs, When invoked, Then it prints a date string.
-### FR-3
-- Given the app runs, When invoked, Then it exits successfully.
 
 ## Non-goals
-- A GUI
-- Networking
