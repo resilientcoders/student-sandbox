@@ -1,7 +1,7 @@
 # PRD
 
 ## Problem
-Automating the creation of PRD with Github actions, between two repositories.
+Automating the creation of PRD with Github actions, between two repositories. Testing with free model.
 
 ## User
 A student.
